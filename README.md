@@ -5,7 +5,7 @@
 #### By *Emmanuel Joel Odhiambo*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It is a combination of three functions that swaps the case of each character entered, generate an array between two numbers entered and takes an array of numbers and returns a new array of only prime numbers.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
